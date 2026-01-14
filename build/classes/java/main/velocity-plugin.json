@@ -1,0 +1,1 @@
+{"id":"velocitychatter","name":"VelocityChatter","version":"1.0-SNAPSHOT","url":"https://github.com/DGBCraft/VelocityChatter","authors":["Sanluli36li"],"dependencies":[{"id":"velocitymanager","optional":true},{"id":"packetevents","optional":true}],"main":"online.dgbcraft.velocity.chatter.VelocityChatter"}
